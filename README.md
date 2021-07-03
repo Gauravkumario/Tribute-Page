@@ -1,0 +1,1 @@
+This is a Tribute Page of Will Smith made with HTML and CSS only.
