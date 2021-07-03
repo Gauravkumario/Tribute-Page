@@ -2,4 +2,4 @@
 
 This is a Tribute Page of Will Smith made with HTML and CSS only.
 click on below link to check live<br>
-[Live]()
+[Live](https://gauravkumario.github.io/Tribute-Page/)
